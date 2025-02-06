@@ -1,1 +1,2 @@
 Este es el archivo de trabajo para el proyecto.
+Este archivo ha sido modificado debido a un error, pero ya es seguro
