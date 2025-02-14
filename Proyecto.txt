@@ -20,3 +20,4 @@ Característica integrada número 2
 Característica integrada número 3
 
 Creación rama release para pequeños errores numero 1
+Arreglo pequeño error número 2
