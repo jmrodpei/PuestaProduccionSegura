@@ -11,3 +11,11 @@ Modificacion numero 4 archivo
 
 Este archivo ha sido modificado debido a un error, pero ya es seguro
 
+
+Característica integrada número 1
+Característica integrada número 2
+
+#Se añadió caracteristica y se realizó merge con rama develop
+
+Característica integrada número 3
+
