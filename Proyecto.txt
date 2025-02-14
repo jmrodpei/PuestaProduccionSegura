@@ -1,3 +1,31 @@
 Este es el archivo de trabajo para el proyecto.
+
+#Estas son las modificaciones realizadas en develop hasta que se arregló el error
+
+Modificación número 1 archivo
+Modificación número 2 archivo
+Modificación número 3 archivo
+Modificacion numero 4 archivo
+
+#Aqui se arregló el error y añadimos codigo de mas con solucion.
+
 Este archivo ha sido modificado debido a un error, pero ya es seguro
+
 Esta es una nueva versión
+
+
+Característica integrada número 1
+Característica integrada número 2
+
+#Se añadió caracteristica y se realizó merge con rama develop
+
+Característica integrada número 3
+
+Creación rama release para pequeños errores numero 1
+
+Arreglo pequeño error número 2,5
+
+Arreglo pequeño error número 2.
+
+todo OK
+Todo OK 2
